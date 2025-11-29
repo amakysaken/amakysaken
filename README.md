@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/amakysaken/amakysaken/main/larry.lua"))() will
+loadstring(game:HttpGet("https://raw.githubusercontent.com/amakysaken/amakysaken/main/larry.lua"))() 
